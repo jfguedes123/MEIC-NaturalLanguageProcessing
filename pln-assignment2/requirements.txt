@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+
+# Jupyter
+notebook
+ipykernel
+
+# Assignment 1 - Classical ML
+scikit-learn
+xgboost
+nltk
+spacy
+gensim
+hmmlearn
+wordcloud
+
+# Assignment 2 - Transformers
+torch
+transformers
+datasets
+evaluate
+accelerate
+peft
